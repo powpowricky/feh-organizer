@@ -1,0 +1,1 @@
+docker stop feh-mongo ; docker rm feh-mongo
